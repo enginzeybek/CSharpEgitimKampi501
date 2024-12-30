@@ -1,0 +1,13 @@
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Form1.resources
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Properties.Resources.resources
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.GenerateResource.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe.config
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.pdb
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\Dapper.dll
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\Dapper.xml
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CopyComplete
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.exe
+C:\Users\LENOVO 2022\Documents\Github\CSharpEgitimKampi501\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.pdb
